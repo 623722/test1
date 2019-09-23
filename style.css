@@ -1,7 +1,14 @@
-<style>
-body{font-family: "lato"}
+body{
+  font-family: "Lato", sans-serif;
+  font-family: "lato";
+}
+
+.mySlides {
+  display: none;
+}
+
+
 p{
   font-size: 30px;
 }
-</style>
 
